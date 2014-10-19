@@ -1,0 +1,25 @@
+{
+  "name": "r4ns",
+  "version": "0.1.0",
+  "description": "NodeJS API Implementation for Rage4 DNS",
+  "homepage": "https://github.com/abegodong/r4ns",
+  "main": "r4ns.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abegodong/r4ns.git"
+  },
+  "author": "Abraham Godong",
+  "license": "MIT",
+  "keywords": [
+    "rage4",
+    "r4ns",
+    "r4dns",
+    "rage4dns",
+    "dns",
+    "nameserver",
+    "ns",
+    "cloud"
+  ],
+  "dependencies": {
+  }
+}
